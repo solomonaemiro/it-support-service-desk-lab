@@ -4,7 +4,6 @@ site_description: A practical IT Support and Service Desk simulation using osTic
 site_author: Solomon Aemiro Bizuneh
 
 repo_url: https://github.com/solomonaemiro/it-support-service-desk-lab
-edit_url: edit/main/docs/
 
 theme:
   name: material
