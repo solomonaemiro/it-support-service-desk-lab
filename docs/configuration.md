@@ -14,7 +14,7 @@ A Support department was configured as the primary destination for IT Support re
 
 The department provides a logical ownership structure for incoming tickets and allows tickets to be routed to the appropriate support team.
 
-![Support department configuration](../images/8%20Departments_List.png)
+![Support department configuration](images/8%20Departments_List.png)
 
 *Configured Support department in osTicket.*
 
@@ -32,7 +32,7 @@ The project included agents such as:
 
 For the practical ticket scenarios, Alex Morgan was used as the Level 1 support technician responsible for investigating and resolving incidents.
 
-![Configured support agents](../images/10%20Agents_List.png)
+![Configured support agents](images/10%20Agents_List.png)
 
 *Configured support agents in the osTicket Staff panel.*
 
@@ -56,7 +56,7 @@ The configured topics included categories such as:
 
 Help Topics provide a consistent way to classify incidents and can be used to route tickets to the appropriate support workflow.
 
-![Configured Help Topics](../images/11%20Help_Topics_List.png)
+![Configured Help Topics](images/11%20Help_Topics_List.png)
 
 *Configured Help Topics used to classify incoming support requests.*
 
@@ -70,7 +70,7 @@ The practical scenarios primarily used Normal priority because the simulated inc
 
 Priority management provides a mechanism for distinguishing routine incidents from issues requiring more urgent attention.
 
-![Ticket priority and metadata](../images/35%20Ticket_Before_Triage.png)
+![Ticket priority and metadata](images/35%20Ticket_Before_Triage.png)
 
 *Ticket metadata including priority and other information used during triage.*
 
@@ -84,11 +84,11 @@ SLA configuration provides a framework for establishing expected response or res
 
 For example, the practical tickets displayed a due date based on the configured SLA.
 
-![Configured SLA plans](../images/12%20SLA_Plans_List.png)
+![Configured SLA plans](images/12%20SLA_Plans_List.png)
 
 *Configured SLA plans available within the service desk.*
 
-![SLA information on a support ticket](../images/36%20Ticket_Assignment.png)
+![SLA information on a support ticket](images/36%20Ticket_Assignment.png)
 
 *Ticket assignment and SLA-related information recorded during the support workflow.*
 
@@ -102,7 +102,7 @@ For the practical scenarios, tickets were assigned to Alex M to simulate ownersh
 
 Assignment establishes clear responsibility for investigating the incident and prevents support requests from remaining indefinitely unowned.
 
-![Ticket assignment](../images/36%20Ticket_Assignment.png)
+![Ticket assignment](images/36%20Ticket_Assignment.png)
 
 *Ticket assigned to Alex Morgan for Level 1 investigation.*
 
@@ -120,7 +120,7 @@ Because this is a closed laboratory environment, external SMTP delivery was not 
 
 The project therefore focused on the ticketing workflow rather than configuring external email infrastructure.
 
-![Support email configuration](../images/18%20Email_Addresses_Page.png)
+![Support email configuration](images/18%20Email_Addresses_Page.png)
 
 *Support email identity configured for the laboratory service desk environment.*
 
@@ -144,11 +144,11 @@ The resources were written in user-friendly language so that an end user could f
 - Keyboard and mouse problems
 - Printer troubleshooting
 
-![Knowledge Base categories](../images/19%20Knowledge_Base.png)
+![Knowledge Base categories](images/19%20Knowledge_Base.png)
 
 *Knowledge Base configuration used to organize self-service support content.*
 
-![Knowledge Base FAQs](../images/32%20FAQs_Page.png)
+![Knowledge Base FAQs](images/32%20FAQs_Page.png)
 
 *Public FAQ resources available to users for common troubleshooting issues.*
 
@@ -161,7 +161,7 @@ The practical tickets were submitted through the Web source.
 This represents a common service desk workflow in which end users submit support requests through a web-based support portal.
 
 
-![Web ticket source](../images/34Ticket_Confirmation_Page.png)
+![Web ticket source](images/34Ticket_Confirmation_Page.png)
 
 *Ticket submitted through the web-based support portal.*
 
@@ -183,7 +183,7 @@ Customer-facing replies were used to communicate the outcome of the investigatio
 
 Separating internal technical documentation from customer communication reflects a common Service Desk practice.
 
-![Web ticket source](../images/34Ticket_Confirmation_Page.png)
+![Web ticket source](images/34Ticket_Confirmation_Page.png)
 
 *Ticket submitted through the web-based support portal.*
 

@@ -1,6 +1,10 @@
 site_name: osTicket IT Support Service Desk Lab
+site_url: https://solomonaemiro.github.io/it-support-service-desk-lab/
 site_description: A practical IT Support and Service Desk simulation using osTicket
 site_author: Solomon Aemiro Bizuneh
+
+repo_url: https://github.com/solomonaemiro/it-support-service-desk-lab
+edit_url: edit/main/docs/
 
 theme:
   name: material

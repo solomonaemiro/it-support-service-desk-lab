@@ -55,7 +55,7 @@ FAQs were created for common Level 1 issues including:
 
 The Knowledge Base demonstrates how recurring support issues can be documented so that users and support technicians have access to consistent troubleshooting guidance.
 
-![Knowledge Base FAQ and category listing](../images/32%20FAQs_Page.png)
+![Knowledge Base FAQ and category listing](images/32%20FAQs_Page.png)
 
 *Knowledge Base FAQ listing showing the documented troubleshooting resources.*
 

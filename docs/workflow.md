@@ -26,7 +26,7 @@ The ticket contains information such as:
 - Priority
 - Department
 
-![Newly created ticket](../images/34Ticket_Confirmation_Page.png)
+![Newly created ticket](images/34Ticket_Confirmation_Page.png)
 
 *Newly created ticket showing the initial ticket information before investigation.*
 
@@ -46,7 +46,7 @@ During triage, the technician considers:
 - Does the issue require immediate escalation?
 
 The goal is to understand the incident before attempting a technical fix.
-![Ticket before triage](../images/35%20Ticket_Before_Triage.png)
+![Ticket before triage](images/35%20Ticket_Before_Triage.png)
 
 *Ticket before triage and technical investigation.*
 
@@ -59,7 +59,7 @@ Ticket assignment is used when a specific technician needs to take ownership of 
 In this project, some tickets were manually assigned to Alex Morgan to demonstrate individual ownership and accountability during the troubleshooting process.
 However, manual assignment is not required for every ticket. Depending on the Service Desk configuration, a ticket may remain in a department or team queue until a technician takes ownership. Automatic routing can also direct tickets to an appropriate department or team without immediately assigning them to a specific technician.
 
-![Ticket assignment](../images/36%20Ticket_Assignment.png)
+![Ticket assignment](images/36%20Ticket_Assignment.png)
 
 *Ticket assigned to the support technician for investigation.*
 
@@ -108,7 +108,7 @@ Examples from the project include:
 - Adding the Amharic language and keyboard configuration
 
 The resolution should address the identified problem without introducing unnecessary changes.
-![Resolution documented in ticket](../images/49%20%232_Posting_Internal_Note.png)
+![Resolution documented in ticket](images/49%20%232_Posting_Internal_Note.png)
 
 *Internal ticket note documenting the resolution stage of the incident.*
 
@@ -145,7 +145,7 @@ A useful internal note should allow another technician to understand:
 
 This creates a useful history of the incident and supports future troubleshooting if the problem returns.
 
-![Internal ticket documentation](../images/40%20Internal_Note_Documenting.png)
+![Internal ticket documentation](images/40%20Internal_Note_Documenting.png)
 
 *Internal note documenting the troubleshooting work and resolution.*
 
@@ -163,7 +163,7 @@ The communication should:
 - Provide any relevant instructions to the user.
 - Explain whether further action is required.
 
-![Customer communication](../images/38%20Communication_Stage.png)
+![Customer communication](images/38%20Communication_Stage.png)
 
 *Customer-facing communication documenting the outcome of the support investigation.*
 
@@ -177,7 +177,7 @@ Closure provides a clear endpoint to the incident and ensures that completed req
 
 The final ticket should contain enough documentation for another technician to understand the work performed.
 
-![Closed ticket](../images/41%20Ticket_Closed.png)
+![Closed ticket](images/41%20Ticket_Closed.png)
 
 *Completed ticket showing the final closure stage.*
 

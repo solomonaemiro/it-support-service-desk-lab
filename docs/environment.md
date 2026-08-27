@@ -45,7 +45,7 @@ Using a virtual machine provided an isolated environment for installing and conf
 
 The VM was configured specifically for the osTicket service desk project.
 
-![osticket-server virtual machine](../images/01%20vm%20server%20configuration.png)
+![osticket-server virtual machine](images/01%20vm%20server%20configuration.png)
 
 *The osticket server virtual machine configured in VirtualBox.*
 
@@ -84,7 +84,7 @@ The osTicket application was installed under:
 
 "/var/www/html/osticket"
 
-![Apache and PHP verification](../images/02%20apache_php_verification.png)
+![Apache and PHP verification](images/02%20apache_php_verification.png)
 
 *Apache and PHP verified as part of the osTicket server environment.*
 
@@ -106,7 +106,7 @@ The database stores application data such as:
 
 Database credentials were intentionally excluded from this documentation.
 
-![MariaDB service running](../images/03%20mariadb_status_running.png)
+![MariaDB service running](images/03%20mariadb_status_running.png)
 
 *MariaDB service verified as running for the osTicket database backend.*
 ---
@@ -130,7 +130,7 @@ The application provided the functionality required to simulate an internal IT S
 - FAQ management
 - Ticket closure
 
-![osTicket Admin Dashboard](../images/6%20osticket_Admin_Dashboard.png)
+![osTicket Admin Dashboard](images/6%20osticket_Admin_Dashboard.png)
 
 *osTicket Admin Panel showing the configured Service Desk environment.*
 

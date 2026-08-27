@@ -8,7 +8,7 @@ The objective was to reduce unnecessary ticket escalation for routine problems w
 
 The articles were written from an end user perspective, using simple instructions and avoiding unnecessary technical commands where a graphical Windows solution was sufficient.
 
-![Knowledge Base](../images/19%20Knowledge_Base.png)
+![Knowledge Base](images/19%20Knowledge_Base.png)
 
 osTicket Knowledge Base configured for self-service support resources.
 
@@ -20,7 +20,7 @@ Knowledge Base categories were created to organize troubleshooting information b
 
 The categories provide a structured way for users to find relevant information instead of searching through one large collection of articles.
 
-![Knowledge Base categories](../images/24%20FAQ_Catagories.png)
+![Knowledge Base categories](images/24%20FAQ_Catagories.png)
 
 Knowledge Base categories used to organize troubleshooting resources.
 
@@ -39,7 +39,7 @@ The FAQs were organized into four support categories:
 
 Each article provides simple troubleshooting steps that an end user can perform safely before escalating the issue to IT Support.
 
-![Knowledge Base FAQ listing](../images/32%20FAQs_Page.png)
+![Knowledge Base FAQ listing](images/32%20FAQs_Page.png)
 
 Public Knowledge Base FAQ listing showing the available troubleshooting resources.
 
@@ -53,7 +53,7 @@ The Windows & Software category contains guidance for common workstation and app
 
 This FAQ provides users with basic steps for troubleshooting slow Windows performance.
 
-![Windows slow performance FAQ](../images/25%20FAQ_Slow_Performance.png)
+![Windows slow performance FAQ](images/25%20FAQ_Slow_Performance.png)
 
 *FAQ providing end-user troubleshooting guidance for slow Windows performance.*
 
@@ -62,7 +62,7 @@ This FAQ provides users with basic steps for troubleshooting slow Windows perfor
 
 This FAQ provides troubleshooting steps for applications that become unresponsive during normal use.
 
-![Application not responding FAQ](../images/26%20FAQ_App_Not_Responding.png)
+![Application not responding FAQ](images/26%20FAQ_App_Not_Responding.png)
 
 *FAQ providing troubleshooting guidance for an application that is not responding.*
 
@@ -76,7 +76,7 @@ The Network & Connectivity category contains guidance for common Wi-Fi and Inter
 
 This FAQ provides basic troubleshooting steps for users experiencing Wi-Fi connectivity problems.
 
-![Wi-Fi connectivity FAQ](../images/27%20FAQ_WIFI_Connectiviy.png)
+![Wi-Fi connectivity FAQ](images/27%20FAQ_WIFI_Connectiviy.png)
 
 *FAQ providing troubleshooting guidance for Wi-Fi connectivity problems.*
 
@@ -85,7 +85,7 @@ This FAQ provides basic troubleshooting steps for users experiencing Wi-Fi conne
 This FAQ addresses situations where a computer reports that it is connected to Wi-Fi but cannot access the Internet.
 
 
-![Connected but no Internet FAQ](../images/28%20FAQs_Connected_No_Internet.png)
+![Connected but no Internet FAQ](images/28%20FAQs_Connected_No_Internet.png)
 
 *FAQ providing troubleshooting guidance for a computer connected to Wi-Fi without Internet access.*
 
@@ -99,7 +99,7 @@ The Accounts & Access category contains guidance for common authentication and a
 
 This FAQ explains what users should do when their account becomes locked.
 
-![Account locked FAQ](../images/29%20FAQ_Account_Locked.png)
+![Account locked FAQ](images/29%20FAQ_Account_Locked.png)
 
 *FAQ providing guidance for users experiencing an account lockout.*
 
@@ -107,7 +107,7 @@ This FAQ explains what users should do when their account becomes locked.
 
 This FAQ provides troubleshooting guidance for common Windows login problems.
 
-![Login problem FAQ](../images/29%20FAQ_Login_Problem.png)
+![Login problem FAQ](images/29%20FAQ_Login_Problem.png)
 
 *FAQ providing troubleshooting guidance for common login problems.*
 
@@ -121,7 +121,7 @@ The Hardware & Peripherals category contains guidance for common workstation inp
 
 This FAQ provides basic troubleshooting steps for keyboard-related problems.
 
-![Keyboard problem FAQ](../images/30%20FAQ_Keyboard_Problem.png)
+![Keyboard problem FAQ](images/30%20FAQ_Keyboard_Problem.png)
 
 *FAQ providing troubleshooting guidance for keyboard problems.*
 
@@ -129,7 +129,7 @@ This FAQ provides basic troubleshooting steps for keyboard-related problems.
 This FAQ provides basic troubleshooting steps for a printer that is not producing printed output.
 
 
-![Printer not printing FAQ](../images/31%20FAQ_Printer_Not_Printing.png)
+![Printer not printing FAQ](images/31%20FAQ_Printer_Not_Printing.png)
 
 *FAQ providing troubleshooting guidance for printer problems.*
 
