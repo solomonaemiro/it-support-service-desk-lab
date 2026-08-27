@@ -1,0 +1,40 @@
+/* Force functional, wide hamburger drawer on desktop viewports */
+@media screen and (min-width: 60em) {
+  /* 1. Hide default static sidebar */
+  .md-sidebar--primary {
+    display: none !important;
+  }
+
+  /* 2. Unhide and style the hamburger label icon */
+  label[for="__drawer"] {
+    display: flex !important;
+    cursor: pointer;
+  }
+
+  /* 3. Enable drawer behavior with expanded width when checked */
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    display: block !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 18.5rem !important; /* Expanded drawer width */
+    height: 100vh;
+    z-index: 100;
+    background-color: var(--md-default-bg-color);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    overflow-y: auto;
+  }
+
+  /* 4. Fix inner container sizing and text padding */
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary .md-sidebar__scrollwrap {
+    width: 100% !important;
+    padding: 1rem 0.5rem;
+  }
+
+  /* 5. Show dark backdrop overlay when drawer is open */
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-overlay {
+    display: block !important;
+    opacity: 1;
+    pointer-events: auto;
+  }
+}

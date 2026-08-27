@@ -1,0 +1,68 @@
+site_name: osTicket IT Support Service Desk Lab
+site_description: A practical IT Support and Service Desk simulation using osTicket
+site_author: Solomon Aemiro Bizuneh
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/laptop-account
+    repo:  fontawesome/brands/github
+  palette:
+    #  toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    #  toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - attr_list
+
+plugins:
+  - search
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - Project Overview: overview.md
+  - Lab Environment: environment.md
+  - osTicket Configuration: configuration.md
+  - Knowledge Base: knowledge-base.md
+  - Ticket Scenarios:
+      - Overview: tickets/index.md
+      - DNS / Internet Access: tickets/dns-internet.md
+      - Black Screen After Login: tickets/black-screen.md
+      - Zoom Microphone Access: tickets/zoom-microphone.md
+      - Amharic Keyboard Setup: tickets/amharic-keyboard.md
+  - Service Desk Workflow: workflow.md
+  - Skills Demonstrated: skills.md
+  - Lessons Learned: lessons.md
+  - Conclusion: conclusion.md
+
